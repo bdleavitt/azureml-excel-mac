@@ -10,6 +10,9 @@
 6. Choose where to put the result of your data (again... if not specified, the results will be output to wherever the selected cell is.
 7. Click "Predict" - if everything goes according to plan, you should be rewarded with a fresh bunch of predictions from the API. 
 
+## Warning/Disclaimer
+This project is still pretty raw. It needs to have more robust error handling, testing, etc. It will only work with single input/output webservices. No warranty express or implied... yadda yadda yadda.  
+
 ## Acknowledgments
 This project relies on VBA-WEB, a project from Tim Hall and friends over at VBA-TOOLS: https://github.com/VBA-tools/VBA-Web/, which is distributed under an MIT License. This project is also made available under an MIT License. 
 
