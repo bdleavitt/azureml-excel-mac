@@ -1,5 +1,7 @@
 # azureml-excel-mac
-[Azure Machine Learning Studio](https://studio.azureml.net/) is a neat piece of web-based software that lets you create and deploy machine learning models without a lot of coding. It's great for people learning the data science process or who prefer a visual coding experience. What makes it great is you can consume your deployed models as a web service. You can even run them from Excel... BUT ONLY IF YOU'RE ON A PC (as of this writing, anyway - 9/30/2017). This project aims to provide a Mac-compatible VBA project to allow our Excel-for-Mac friends to consume Azure Machine Learning web services like the rest of us. It should also work on your Windows-based PC. 
+[Azure Machine Learning Studio](https://studio.azureml.net/) is a neat piece of web-based software that lets you create and deploy machine learning models without a lot of coding. It's great for people learning the data science process or who prefer a visual coding experience. What makes it great is you can consume your deployed models as a web service. You can even run them from Excel... BUT ONLY IF YOU'RE ON A PC (as of this writing, anyway - 9/30/2017). 
+
+And, well, that's a problem if you're writing an analytics course on Azure ML and your students are using a Mac. SOOOO... This project aims to provide a Mac-compatible VBA project to allow our Excel-for-Mac friends to consume Azure Machine Learning web services like the rest of us. (It should also work on your Windows-based PC.) 
 
 ## Getting Started
 1. To get started, just download a copy of the Web Enabled Workbook. 
